@@ -2,7 +2,7 @@
 # Github Favorites
 
 ## ✨ Live Preview
-You can access the live preview clicking [here](https://github-favorites-theta.vercel.app/).
+You can access the live preview clicking [here](https://gustavogarciac.github.io/space-cream/).
 ## Preview
 
 ![App Screenshot](./assets/thumbnail.png)
@@ -13,7 +13,7 @@ You can access the live preview clicking [here](https://github-favorites-theta.v
 Clone the project
 
 ```bash
-  git clone git@github.com:gustavogarciac/github-favorites.git
+  git clone git@github.com:gustavogarciac/space-cream.git
 ```
 
 ## 🚀 Technologies
